@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1, 
+    "name": "Nick Arzner",
+    "email": "nick@block15.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 3, 
+    "name": "Tori Lockwood",
+    "email": "tori@robnetts.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 2, 
+    "name": "Joel Rea",
+    "email": "joel@lickspigot.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 4, 
+    "name": "The Owners",
+    "email": "owners@firstalt.coop",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 9, 
+    "name": "Kim Marchesi",
+    "email": "kim@localboyzhawaiiancafe.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 11, 
+    "name": "William McCanless",
+    "email": "william@interzoneorganic1.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 6, 
+    "name": "Paul Turner",
+    "email": "paul@darksidecinema.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 8, 
+    "name": "Cody Utzman",
+    "email": "cody@bodhibakery.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 5, 
+    "name": "Winco Employees",
+    "email": "employees@wincofoods.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 7, 
+    "name": "Philip Wilson",
+    "email": "philib@bookbin.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 10, 
+    "name": "Fred Meyer",
+    "email": "fred@fredmeyer.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 12, 
+    "name": "Mike Easter",
+    "email": "mike@cyclotopia.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 14, 
+    "name": "Casey Collett",
+    "email": "casey@oregoncoffeeandtea.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 13, 
+    "name": "John Semadeni",
+    "email": "john@corvalliscycleryinc.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 15, 
+    "name": "Alex Spaeth",
+    "email": "alex@spaethlumber.com",
+    "password": "hunter2",
+    "admin": false
+  },
+  {
+    "id": 16, 
+    "name": "Tristan James",
+    "email": "tristan@newmorningbakery.com",
+    "password": "hunter2",
+    "admin": false
+  }
+]
